@@ -1,0 +1,1 @@
+@python.exe E:\py\book - Automate the Boring Stuff with Python 3\quickWeather.py %*

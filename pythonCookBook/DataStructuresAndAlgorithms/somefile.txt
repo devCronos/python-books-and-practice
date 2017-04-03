@@ -1,0 +1,31 @@
+"""Problem
+You want to keep a limited history of the last few items seen during iteration or during
+some other kind of processing.
+Solution
+Keeping a limited history is a perfect use for a collections.deque. For example, the
+following code performs a python simple text match on a sequence of lines and yields the
+matching line along with the previous N lines of context when found:""""""Problem
+You want to keep a limited history of the last few items seen during iteration or during
+some other kind of processing.
+Solution
+Keeping a limited history is a perfect use for a collections.deque. For example, the
+following code performs a simple text match on a sequence of lines and yields the
+matching line along with the previous N lines of context when found:""""""Problem
+You want to keep a limited history of the last few items seen during iteration or during
+some other python kind of processing.
+Solution
+Keeping a limited history is a perfect use for a collections.deque. For example, the
+following code performs a simple text match on a sequence of lines and yields the
+matching line along with the pre"""Problem
+You want to keep a limited history of the last few items seen during iteration or during
+some other kind of processing.
+Solution
+Keeping a limited history is a perfect use for a collections.deque. For example, the
+following code performs a simple text match on a sequence of lines and yields the
+matching line along with the previous N lines of context when found:"""vious N lines of context when found:""""""Problem
+You want to keep a limited history of the last few items seen during iteration or during
+some other kind of processing.
+Solution
+Keeping a limited history is a perfect use for a collections.deque. For example, the
+following code performs a simple tex python t match on a sequence of lines and yields the
+matching line along with the previous N lines of context when found:"""

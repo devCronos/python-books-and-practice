@@ -1,0 +1,1 @@
+@pyw.exe E:\py\automateTheBotingStuff\mcb.pyw %*

@@ -1,0 +1,94 @@
+ 2016-11-04 18:47:13,598 - DEBUG- Start of program
+ 2016-11-04 18:47:13,598 - DEBUG- Start of factorial(5%)
+ 2016-11-04 18:47:13,598 - DEBUG- i is 1, total is 1
+ 2016-11-04 18:47:13,599 - DEBUG- i is 2, total is 2
+ 2016-11-04 18:47:13,599 - DEBUG- i is 3, total is 6
+ 2016-11-04 18:47:13,599 - DEBUG- i is 4, total is 24
+ 2016-11-04 18:47:13,599 - DEBUG- i is 5, total is 120
+ 2016-11-04 18:47:13,599 - DEBUG- End of factorial(5%)
+ 2016-11-04 18:47:13,599 - DEBUG- End of program
+ 2016-11-04 18:53:19,769 - DEBUG- Start of program
+ 2016-11-04 18:53:19,770 - DEBUG- Start of factorial(5%)
+ 2016-11-04 18:53:19,770 - DEBUG- i is 1, total is 1
+ 2016-11-04 18:53:19,771 - DEBUG- i is 2, total is 2
+ 2016-11-04 18:53:19,771 - DEBUG- i is 3, total is 6
+ 2016-11-04 18:53:19,771 - DEBUG- i is 4, total is 24
+ 2016-11-04 18:53:19,772 - DEBUG- i is 5, total is 120
+ 2016-11-04 18:53:19,772 - DEBUG- End of factorial(5%)
+ 2016-11-04 18:53:19,773 - DEBUG- End of program
+ 2016-11-04 18:53:23,745 - DEBUG- Start of program
+ 2016-11-04 18:53:23,745 - DEBUG- Start of factorial(5%)
+ 2016-11-04 18:53:23,745 - DEBUG- i is 1, total is 1
+ 2016-11-04 18:53:23,746 - DEBUG- i is 2, total is 2
+ 2016-11-04 18:53:23,746 - DEBUG- i is 3, total is 6
+ 2016-11-04 18:53:23,746 - DEBUG- i is 4, total is 24
+ 2016-11-04 18:53:23,747 - DEBUG- i is 5, total is 120
+ 2016-11-04 18:53:23,747 - DEBUG- End of factorial(5%)
+ 2016-11-04 18:53:23,747 - DEBUG- End of program
+ 2016-11-04 18:53:28,054 - DEBUG- Start of program
+ 2016-11-04 18:53:28,054 - DEBUG- Start of factorial(5%)
+ 2016-11-04 18:53:28,054 - DEBUG- i is 1, total is 1
+ 2016-11-04 18:53:28,054 - DEBUG- i is 2, total is 2
+ 2016-11-04 18:53:28,054 - DEBUG- i is 3, total is 6
+ 2016-11-04 18:53:28,055 - DEBUG- i is 4, total is 24
+ 2016-11-04 18:53:28,055 - DEBUG- i is 5, total is 120
+ 2016-11-04 18:53:28,055 - DEBUG- End of factorial(5%)
+ 2016-11-04 18:53:28,055 - DEBUG- End of program
+ 2016-11-04 18:53:44,885 - DEBUG- Start of program
+ 2016-11-04 18:53:44,886 - DEBUG- Start of factorial(5%)
+ 2016-11-04 18:53:44,886 - DEBUG- i is 1, total is 1
+ 2016-11-04 18:53:44,887 - DEBUG- i is 2, total is 2
+ 2016-11-04 18:53:44,887 - DEBUG- i is 3, total is 6
+ 2016-11-04 18:53:44,888 - DEBUG- i is 4, total is 24
+ 2016-11-04 18:53:44,888 - DEBUG- i is 5, total is 120
+ 2016-11-04 18:53:44,888 - DEBUG- End of factorial(5%)
+ 2016-11-04 18:53:44,889 - DEBUG- End of program
+ 2016-11-04 18:54:11,165 - DEBUG- Start of program
+ 2016-11-04 18:54:11,165 - DEBUG- Start of factorial(5%)
+ 2016-11-04 18:54:11,165 - DEBUG- i is 1, total is 1
+ 2016-11-04 18:54:11,167 - DEBUG- i is 2, total is 2
+ 2016-11-04 18:54:11,167 - DEBUG- i is 3, total is 6
+ 2016-11-04 18:54:11,167 - DEBUG- i is 4, total is 24
+ 2016-11-04 18:54:11,168 - DEBUG- i is 5, total is 120
+ 2016-11-04 18:54:11,168 - DEBUG- End of factorial(5%)
+ 2016-11-04 18:54:11,168 - DEBUG- End of program
+ 2016-11-04 18:54:22,169 - DEBUG- Start of program
+ 2016-11-04 18:54:22,170 - DEBUG- Start of factorial(5%)
+ 2016-11-04 18:54:24,010 - DEBUG- Start of program
+ 2016-11-04 18:54:24,011 - DEBUG- Start of factorial(5%)
+ 2016-11-04 18:56:14,193 - DEBUG- Start of program
+ 2016-11-04 18:56:38,909 - DEBUG- Start of program
+ 2016-11-04 18:56:38,910 - DEBUG- Start of factorial(5%)
+ 2016-11-04 18:56:38,910 - DEBUG- i is 1, total is 1
+ 2016-11-04 18:56:38,911 - DEBUG- i is 2, total is 2
+ 2016-11-04 18:56:38,911 - DEBUG- i is 3, total is 6
+ 2016-11-04 18:56:38,911 - DEBUG- i is 4, total is 24
+ 2016-11-04 18:56:38,912 - DEBUG- i is 5, total is 120
+ 2016-11-04 18:56:38,912 - DEBUG- End of factorial(5%)
+ 2016-11-04 18:56:45,638 - DEBUG- Start of program
+ 2016-11-04 18:56:54,847 - DEBUG- Start of factorial(5%)
+ 2016-11-04 18:56:54,847 - DEBUG- i is 1, total is 1
+ 2016-11-04 18:56:54,848 - DEBUG- i is 2, total is 2
+ 2016-11-04 18:56:54,848 - DEBUG- i is 3, total is 6
+ 2016-11-04 18:56:54,849 - DEBUG- i is 4, total is 24
+ 2016-11-04 18:56:54,849 - DEBUG- i is 5, total is 120
+ 2016-11-04 18:56:54,849 - DEBUG- End of factorial(5%)
+ 2016-11-04 18:56:54,850 - DEBUG- End of program
+ 2016-11-04 18:59:31,041 - DEBUG- Start of program
+ 2016-11-04 18:59:31,042 - DEBUG- Start of factorial(5%)
+ 2016-11-04 18:59:31,043 - DEBUG- i is 1, total is 1
+ 2016-11-04 18:59:31,043 - DEBUG- i is 2, total is 2
+ 2016-11-04 18:59:31,043 - DEBUG- i is 3, total is 6
+ 2016-11-04 18:59:31,044 - DEBUG- i is 4, total is 24
+ 2016-11-04 18:59:31,044 - DEBUG- i is 5, total is 120
+ 2016-11-04 18:59:31,044 - DEBUG- End of factorial(5%)
+ 2016-11-04 18:59:31,045 - DEBUG- End of program
+ 2016-11-04 18:59:38,093 - DEBUG- Start of program
+ 2016-11-04 18:59:38,093 - DEBUG- Start of factorial(5%)
+ 2016-11-04 18:59:38,093 - DEBUG- i is 1, total is 1
+ 2016-11-04 18:59:38,093 - DEBUG- i is 2, total is 2
+ 2016-11-04 18:59:38,093 - DEBUG- i is 3, total is 6
+ 2016-11-04 18:59:38,093 - DEBUG- i is 4, total is 24
+ 2016-11-04 18:59:38,094 - DEBUG- i is 5, total is 120
+ 2016-11-04 18:59:38,094 - DEBUG- End of factorial(5%)
+ 2016-11-04 18:59:38,094 - DEBUG- End of program
